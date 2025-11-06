@@ -1,0 +1,1539 @@
+[
+    {
+        "Land": "Afghanistan",
+        "Hauptstadt": "Kabul",
+        "Breitengrad": 34.5289,
+        "L\u00e4ngengrad": 69.1725,
+        "Bev\u00f6lkerung": 4011770,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "\u00c4gypten",
+        "Hauptstadt": "Kairo",
+        "Breitengrad": 30.0392,
+        "L\u00e4ngengrad": 31.2394,
+        "Bev\u00f6lkerung": 20076002,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Albanien",
+        "Hauptstadt": "Tirana",
+        "Breitengrad": 41.3275,
+        "L\u00e4ngengrad": 19.8189,
+        "Bev\u00f6lkerung": 475577,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Algerien",
+        "Hauptstadt": "Algier",
+        "Breitengrad": 36.7525,
+        "L\u00e4ngengrad": 3.042,
+        "Bev\u00f6lkerung": 2693542,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Andorra",
+        "Hauptstadt": "Andorra la Vella",
+        "Breitengrad": 42.5078,
+        "L\u00e4ngengrad": 1.5211,
+        "Bev\u00f6lkerung": 22614,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Angola",
+        "Hauptstadt": "Luanda",
+        "Breitengrad": -8.8368,
+        "L\u00e4ngengrad": 13.2343,
+        "Bev\u00f6lkerung": 7774200,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Antigua und Barbuda",
+        "Hauptstadt": "St. John's",
+        "Breitengrad": 17.1172,
+        "L\u00e4ngengrad": -61.8457,
+        "Bev\u00f6lkerung": 20764,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "\u00c4quatorialguinea",
+        "Hauptstadt": "Malabo",
+        "Breitengrad": 3.75,
+        "L\u00e4ngengrad": 8.7833,
+        "Bev\u00f6lkerung": 296770,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Argentinien",
+        "Hauptstadt": "Buenos Aires",
+        "Breitengrad": -34.6051,
+        "L\u00e4ngengrad": -58.4004,
+        "Bev\u00f6lkerung": 14966530,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Armenien",
+        "Hauptstadt": "Jerewan",
+        "Breitengrad": 40.182,
+        "L\u00e4ngengrad": 44.5146,
+        "Bev\u00f6lkerung": 1080324,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Aserbaidschan",
+        "Hauptstadt": "Baku",
+        "Breitengrad": 40.3777,
+        "L\u00e4ngengrad": 49.892,
+        "Bev\u00f6lkerung": 2285729,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "\u00c4thiopien",
+        "Hauptstadt": "Addis Abeba",
+        "Breitengrad": 9.025,
+        "L\u00e4ngengrad": 38.7469,
+        "Bev\u00f6lkerung": 4399674,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Australien",
+        "Hauptstadt": "Canberra",
+        "Breitengrad": -35.2835,
+        "L\u00e4ngengrad": 149.1281,
+        "Bev\u00f6lkerung": 447692,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Bahamas",
+        "Hauptstadt": "Nassau",
+        "Breitengrad": 25.0582,
+        "L\u00e4ngengrad": -77.3431,
+        "Bev\u00f6lkerung": 279668,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Bahrain",
+        "Hauptstadt": "Manama",
+        "Breitengrad": 26.2154,
+        "L\u00e4ngengrad": 50.5832,
+        "Bev\u00f6lkerung": 564631,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Bangladesch",
+        "Hauptstadt": "Dhaka",
+        "Breitengrad": 23.7104,
+        "L\u00e4ngengrad": 90.4074,
+        "Bev\u00f6lkerung": 19578421,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Barbados",
+        "Hauptstadt": "Bridgetown",
+        "Breitengrad": 13.1,
+        "L\u00e4ngengrad": -59.6167,
+        "Bev\u00f6lkerung": 89201,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Belarus",
+        "Hauptstadt": "Minsk",
+        "Breitengrad": 53.9,
+        "L\u00e4ngengrad": 27.5667,
+        "Bev\u00f6lkerung": 2004672,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Belgien",
+        "Hauptstadt": "Br\u00fcssel",
+        "Breitengrad": 50.8467,
+        "L\u00e4ngengrad": 4.3499,
+        "Bev\u00f6lkerung": 2049510,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Belize",
+        "Hauptstadt": "Belmopan",
+        "Breitengrad": 17.25,
+        "L\u00e4ngengrad": -88.7667,
+        "Bev\u00f6lkerung": 22964,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Benin",
+        "Hauptstadt": "Porto Novo",
+        "Breitengrad": 6.3654,
+        "L\u00e4ngengrad": 2.4183,
+        "Bev\u00f6lkerung": 685458,
+        "Hauptstadttyp": "Wirtschaftshauptstadt",
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Bhutan",
+        "Hauptstadt": "Thimphu",
+        "Breitengrad": 27.4661,
+        "L\u00e4ngengrad": 89.6419,
+        "Bev\u00f6lkerung": 203297,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Bolivien",
+        "Hauptstadt": "Sucre",
+        "Breitengrad": -16.5,
+        "L\u00e4ngengrad": -68.15,
+        "Bev\u00f6lkerung": 1814087,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Bosnien und Herzegowina",
+        "Hauptstadt": "Sarajevo",
+        "Breitengrad": 43.8486,
+        "L\u00e4ngengrad": 18.3564,
+        "Bev\u00f6lkerung": 342577,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Botswana",
+        "Hauptstadt": "Gaborone",
+        "Breitengrad": -24.6545,
+        "L\u00e4ngengrad": 25.9086,
+        "Bev\u00f6lkerung": 269338,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Brasilien",
+        "Hauptstadt": "Bras\u00edlia",
+        "Breitengrad": -15.7797,
+        "L\u00e4ngengrad": -47.9297,
+        "Bev\u00f6lkerung": 4469585,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Brunei",
+        "Hauptstadt": "Bandar Seri Begawan",
+        "Breitengrad": 4.9403,
+        "L\u00e4ngengrad": 114.9481,
+        "Bev\u00f6lkerung": 40781,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Bulgarien",
+        "Hauptstadt": "Sofia",
+        "Breitengrad": 42.6975,
+        "L\u00e4ngengrad": 23.3242,
+        "Bev\u00f6lkerung": 1272418,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Burkina Faso",
+        "Hauptstadt": "Ouagadougou",
+        "Breitengrad": 12.3642,
+        "L\u00e4ngengrad": -1.5383,
+        "Bev\u00f6lkerung": 2531381,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Burundi",
+        "Hauptstadt": "Gitega",
+        "Breitengrad": -3.3822,
+        "L\u00e4ngengrad": 29.3644,
+        "Bev\u00f6lkerung": 898968,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Chile",
+        "Hauptstadt": "Santiago de Chile",
+        "Breitengrad": -33.4569,
+        "L\u00e4ngengrad": -70.6483,
+        "Bev\u00f6lkerung": 6680371,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "China (Volksrepublik)",
+        "Hauptstadt": "Peking",
+        "Breitengrad": 39.9075,
+        "L\u00e4ngengrad": 116.3972,
+        "Bev\u00f6lkerung": 19617963,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Costa Rica",
+        "Hauptstadt": "San Jos\u00e9",
+        "Breitengrad": 9.5557,
+        "L\u00e4ngengrad": -84.0448,
+        "Bev\u00f6lkerung": 352381,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "D\u00e4nemark",
+        "Hauptstadt": "Kopenhagen",
+        "Breitengrad": 55.6759,
+        "L\u00e4ngengrad": 12.5655,
+        "Bev\u00f6lkerung": 1320826,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Deutschland",
+        "Hauptstadt": "Berlin",
+        "Breitengrad": 52.5244,
+        "L\u00e4ngengrad": 13.4105,
+        "Bev\u00f6lkerung": 3552123,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Dominica",
+        "Hauptstadt": "Roseau",
+        "Breitengrad": 15.3017,
+        "L\u00e4ngengrad": -61.3881,
+        "Bev\u00f6lkerung": 14942,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Dominikanische Republik",
+        "Hauptstadt": "Santo Domingo",
+        "Breitengrad": 18.4896,
+        "L\u00e4ngengrad": -69.9018,
+        "Bev\u00f6lkerung": 3172152,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Dschibuti",
+        "Hauptstadt": "Dschibuti",
+        "Breitengrad": 11.5877,
+        "L\u00e4ngengrad": 43.1447,
+        "Bev\u00f6lkerung": 561564,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Ecuador",
+        "Hauptstadt": "Quito",
+        "Breitengrad": -0.2299,
+        "L\u00e4ngengrad": -78.525,
+        "Bev\u00f6lkerung": 1822397,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "El Salvador",
+        "Hauptstadt": "San Salvador",
+        "Breitengrad": 13.6894,
+        "L\u00e4ngengrad": -89.1872,
+        "Bev\u00f6lkerung": 1106698,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Elfenbeink\u00fcste",
+        "Hauptstadt": "Yamoussoukro",
+        "Breitengrad": 6.4858,
+        "L\u00e4ngengrad": 5.1627,
+        "Bev\u00f6lkerung": 422072,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Eritrea",
+        "Hauptstadt": "Asmara",
+        "Breitengrad": 15.3333,
+        "L\u00e4ngengrad": 38.9333,
+        "Bev\u00f6lkerung": 895863,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Estland",
+        "Hauptstadt": "Tallinn",
+        "Breitengrad": 59.437,
+        "L\u00e4ngengrad": 24.7535,
+        "Bev\u00f6lkerung": 437027,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Eswatini (Swaziland)",
+        "Hauptstadt": "Mbabane",
+        "Breitengrad": -26.3167,
+        "L\u00e4ngengrad": 31.1333,
+        "Bev\u00f6lkerung": 68010,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Fidschi",
+        "Hauptstadt": "Suva",
+        "Breitengrad": -18.1416,
+        "L\u00e4ngengrad": 178.4415,
+        "Bev\u00f6lkerung": 178339,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Finnland",
+        "Hauptstadt": "Helsinki",
+        "Breitengrad": 60.1692,
+        "L\u00e4ngengrad": 24.9402,
+        "Bev\u00f6lkerung": 1279096,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Frankreich",
+        "Hauptstadt": "Paris",
+        "Breitengrad": 48.8534,
+        "L\u00e4ngengrad": 2.3488,
+        "Bev\u00f6lkerung": 10900952,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Gabun",
+        "Hauptstadt": "Libreville",
+        "Breitengrad": 0.3925,
+        "L\u00e4ngengrad": 9.4537,
+        "Bev\u00f6lkerung": 813489,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Gambia",
+        "Hauptstadt": "Banjul",
+        "Breitengrad": 13.4531,
+        "L\u00e4ngengrad": -16.6794,
+        "Bev\u00f6lkerung": 437161,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Georgien",
+        "Hauptstadt": "Tiflis",
+        "Breitengrad": 41.6941,
+        "L\u00e4ngengrad": 44.8337,
+        "Bev\u00f6lkerung": 1077333,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Ghana",
+        "Hauptstadt": "Accra",
+        "Breitengrad": 5.556,
+        "L\u00e4ngengrad": -0.1969,
+        "Bev\u00f6lkerung": 2439389,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Grenada",
+        "Hauptstadt": "St. George's",
+        "Breitengrad": 12.0564,
+        "L\u00e4ngengrad": -61.7485,
+        "Bev\u00f6lkerung": 39297,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Griechenland",
+        "Hauptstadt": "Athen",
+        "Breitengrad": 37.9534,
+        "L\u00e4ngengrad": 23.749,
+        "Bev\u00f6lkerung": 3155600,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Guatemala",
+        "Hauptstadt": "Guatemala-Stadt",
+        "Breitengrad": 14.6127,
+        "L\u00e4ngengrad": -90.5307,
+        "Bev\u00f6lkerung": 2851104,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Guinea",
+        "Hauptstadt": "Conakry",
+        "Breitengrad": 9.5716,
+        "L\u00e4ngengrad": -13.6476,
+        "Bev\u00f6lkerung": 1843121,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Guinea-Bissau",
+        "Hauptstadt": "Bissau",
+        "Breitengrad": 11.8636,
+        "L\u00e4ngengrad": -15.5977,
+        "Bev\u00f6lkerung": 558399,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Guyana",
+        "Hauptstadt": "Georgetown",
+        "Breitengrad": 6.8045,
+        "L\u00e4ngengrad": -58.1553,
+        "Bev\u00f6lkerung": 109934,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Haiti",
+        "Hauptstadt": "Port-au-Prince",
+        "Breitengrad": 18.5392,
+        "L\u00e4ngengrad": -72.335,
+        "Bev\u00f6lkerung": 2636763,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Honduras",
+        "Hauptstadt": "Tegucigalpa",
+        "Breitengrad": 14.0818,
+        "L\u00e4ngengrad": -87.2068,
+        "Bev\u00f6lkerung": 1363041,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Indien",
+        "Hauptstadt": "Neu-Delhi",
+        "Breitengrad": 28.6667,
+        "L\u00e4ngengrad": 77.2167,
+        "Bev\u00f6lkerung": 28513682,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Indonesien",
+        "Hauptstadt": "Jakarta",
+        "Breitengrad": -6.2118,
+        "L\u00e4ngengrad": 106.8416,
+        "Bev\u00f6lkerung": 10516927,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Irak",
+        "Hauptstadt": "Bagdad",
+        "Breitengrad": 33.3406,
+        "L\u00e4ngengrad": 44.4009,
+        "Bev\u00f6lkerung": 6811955,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Iran",
+        "Hauptstadt": "Teheran",
+        "Breitengrad": 35.6944,
+        "L\u00e4ngengrad": 51.4215,
+        "Bev\u00f6lkerung": 8895947,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Irland",
+        "Hauptstadt": "Dublin",
+        "Breitengrad": 53.3331,
+        "L\u00e4ngengrad": -6.2489,
+        "Bev\u00f6lkerung": 1201426,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Island",
+        "Hauptstadt": "Reykjav\u00edk",
+        "Breitengrad": 64.1355,
+        "L\u00e4ngengrad": -21.8954,
+        "Bev\u00f6lkerung": 216364,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Israel",
+        "Hauptstadt": "Jerusalem",
+        "Breitengrad": 31.769,
+        "L\u00e4ngengrad": 35.2163,
+        "Bev\u00f6lkerung": 907062,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Italien",
+        "Hauptstadt": "Rom",
+        "Breitengrad": 41.8947,
+        "L\u00e4ngengrad": 12.4811,
+        "Bev\u00f6lkerung": 4209710,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Jamaika",
+        "Hauptstadt": "Kingston",
+        "Breitengrad": 17.997,
+        "L\u00e4ngengrad": -76.7936,
+        "Bev\u00f6lkerung": 589083,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Japan",
+        "Hauptstadt": "Tokio",
+        "Breitengrad": 35.6895,
+        "L\u00e4ngengrad": 139.6917,
+        "Bev\u00f6lkerung": 37468302,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Jemen",
+        "Hauptstadt": "Sanaa",
+        "Breitengrad": 15.3531,
+        "L\u00e4ngengrad": 44.2078,
+        "Bev\u00f6lkerung": 2779317,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Jordanien",
+        "Hauptstadt": "Amman",
+        "Breitengrad": 31.9552,
+        "L\u00e4ngengrad": 35.945,
+        "Bev\u00f6lkerung": 2064582,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Kambodscha",
+        "Hauptstadt": "Phnom Penh",
+        "Breitengrad": 11.5625,
+        "L\u00e4ngengrad": 104.916,
+        "Bev\u00f6lkerung": 1952329,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Kamerun",
+        "Hauptstadt": "Yaound\u00e9",
+        "Breitengrad": 3.8667,
+        "L\u00e4ngengrad": 11.5167,
+        "Bev\u00f6lkerung": 3655656,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Kanada",
+        "Hauptstadt": "Ottawa",
+        "Breitengrad": 45.4166,
+        "L\u00e4ngengrad": -75.698,
+        "Bev\u00f6lkerung": 1363159,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Kap Verde",
+        "Hauptstadt": "Praia",
+        "Breitengrad": 14.9215,
+        "L\u00e4ngengrad": -23.5087,
+        "Bev\u00f6lkerung": 167504,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Kasachstan",
+        "Hauptstadt": "Astana",
+        "Breitengrad": 51.1801,
+        "L\u00e4ngengrad": 71.446,
+        "Bev\u00f6lkerung": 1068113,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Katar",
+        "Hauptstadt": "Doha",
+        "Breitengrad": 25.2747,
+        "L\u00e4ngengrad": 51.5245,
+        "Bev\u00f6lkerung": 633401,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Kenia",
+        "Hauptstadt": "Nairobi",
+        "Breitengrad": -1.2833,
+        "L\u00e4ngengrad": 36.8167,
+        "Bev\u00f6lkerung": 4385853,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Kirgisistan",
+        "Hauptstadt": "Bischkek",
+        "Breitengrad": 42.87,
+        "L\u00e4ngengrad": 74.59,
+        "Bev\u00f6lkerung": 996319,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Kiribati",
+        "Hauptstadt": "Tarawa",
+        "Breitengrad": 1.3272,
+        "L\u00e4ngengrad": 172.9813,
+        "Bev\u00f6lkerung": 64011,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Kolumbien",
+        "Hauptstadt": "Bogot\u00e1",
+        "Breitengrad": 4.6097,
+        "L\u00e4ngengrad": -74.0818,
+        "Bev\u00f6lkerung": 10574409,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Komoren",
+        "Hauptstadt": "Moroni",
+        "Breitengrad": -11.7022,
+        "L\u00e4ngengrad": 43.2551,
+        "Bev\u00f6lkerung": 62351,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Kongo (Demokratische Republik)",
+        "Hauptstadt": "Kinshasa",
+        "Breitengrad": -4.3276,
+        "L\u00e4ngengrad": 15.3136,
+        "Bev\u00f6lkerung": 13171256,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Kongo (Republik)",
+        "Hauptstadt": "Brazzaville",
+        "Breitengrad": -4.2658,
+        "L\u00e4ngengrad": 15.2832,
+        "Bev\u00f6lkerung": 2229693,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Korea (Nord)",
+        "Hauptstadt": "Pj\u00f6ngjang",
+        "Breitengrad": 39.0339,
+        "L\u00e4ngengrad": 125.7543,
+        "Bev\u00f6lkerung": 3037862,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Korea (S\u00fcd)",
+        "Hauptstadt": "Seoul",
+        "Breitengrad": 37.5683,
+        "L\u00e4ngengrad": 126.9778,
+        "Bev\u00f6lkerung": 9963497,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Kroatien",
+        "Hauptstadt": "Zagreb",
+        "Breitengrad": 45.8144,
+        "L\u00e4ngengrad": 15.978,
+        "Bev\u00f6lkerung": 685587,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Kuba",
+        "Hauptstadt": "Havanna",
+        "Breitengrad": 23.1195,
+        "L\u00e4ngengrad": -82.3785,
+        "Bev\u00f6lkerung": 2136468,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Kuwait",
+        "Hauptstadt": "Kuwait",
+        "Breitengrad": 29.3697,
+        "L\u00e4ngengrad": 47.9783,
+        "Bev\u00f6lkerung": 2989270,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Laos",
+        "Hauptstadt": "Vientiane",
+        "Breitengrad": 17.9667,
+        "L\u00e4ngengrad": 102.6,
+        "Bev\u00f6lkerung": 664754,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Lesotho",
+        "Hauptstadt": "Maseru",
+        "Breitengrad": -29.3167,
+        "L\u00e4ngengrad": 27.4833,
+        "Bev\u00f6lkerung": 201851,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Lettland",
+        "Hauptstadt": "Riga",
+        "Breitengrad": 56.946,
+        "L\u00e4ngengrad": 24.1059,
+        "Bev\u00f6lkerung": 637089,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Libanon",
+        "Hauptstadt": "Beirut",
+        "Breitengrad": 33.9,
+        "L\u00e4ngengrad": 35.4833,
+        "Bev\u00f6lkerung": 2385271,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Liberia",
+        "Hauptstadt": "Monrovia",
+        "Breitengrad": 6.3005,
+        "L\u00e4ngengrad": -10.7969,
+        "Bev\u00f6lkerung": 1418300,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Libyen",
+        "Hauptstadt": "Tripolis",
+        "Breitengrad": 32.8752,
+        "L\u00e4ngengrad": 13.1875,
+        "Bev\u00f6lkerung": 1157746,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Liechtenstein",
+        "Hauptstadt": "Vaduz",
+        "Breitengrad": 47.1415,
+        "L\u00e4ngengrad": 9.5215,
+        "Bev\u00f6lkerung": 5470,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Litauen",
+        "Hauptstadt": "Vilnius",
+        "Breitengrad": 54.6892,
+        "L\u00e4ngengrad": 25.2798,
+        "Bev\u00f6lkerung": 536055,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Luxemburg",
+        "Hauptstadt": "Luxemburg",
+        "Breitengrad": 49.6117,
+        "L\u00e4ngengrad": 6.13,
+        "Bev\u00f6lkerung": 119752,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Madagaskar",
+        "Hauptstadt": "Antananarivo",
+        "Breitengrad": -18.9137,
+        "L\u00e4ngengrad": 47.5361,
+        "Bev\u00f6lkerung": 3058387,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Malawi",
+        "Hauptstadt": "Lilongwe",
+        "Breitengrad": -13.9669,
+        "L\u00e4ngengrad": 33.7873,
+        "Bev\u00f6lkerung": 1029639,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Malaysia",
+        "Hauptstadt": "Kuala Lumpur",
+        "Breitengrad": 3.1412,
+        "L\u00e4ngengrad": 101.6865,
+        "Bev\u00f6lkerung": 7563912,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Malediven",
+        "Hauptstadt": "Mal\u00e9",
+        "Breitengrad": 4.1748,
+        "L\u00e4ngengrad": 73.5089,
+        "Bev\u00f6lkerung": 176851,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Mali",
+        "Hauptstadt": "Bamako",
+        "Breitengrad": 12.65,
+        "L\u00e4ngengrad": -8.0,
+        "Bev\u00f6lkerung": 2446749,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Malta",
+        "Hauptstadt": "Valletta",
+        "Breitengrad": 35.8997,
+        "L\u00e4ngengrad": 14.5147,
+        "Bev\u00f6lkerung": 212768,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Marokko",
+        "Hauptstadt": "Rabat",
+        "Breitengrad": 34.0133,
+        "L\u00e4ngengrad": -6.8326,
+        "Bev\u00f6lkerung": 1846661,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Marshallinseln",
+        "Hauptstadt": "Majuro",
+        "Breitengrad": 7.0897,
+        "L\u00e4ngengrad": 171.3803,
+        "Bev\u00f6lkerung": 30661,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Mauretanien",
+        "Hauptstadt": "Nouakchott",
+        "Breitengrad": 18.0858,
+        "L\u00e4ngengrad": -15.9785,
+        "Bev\u00f6lkerung": 1205414,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Mauritius",
+        "Hauptstadt": "Port Louis",
+        "Breitengrad": -20.1619,
+        "L\u00e4ngengrad": 57.4989,
+        "Bev\u00f6lkerung": 149365,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Mexiko",
+        "Hauptstadt": "Mexiko-Stadt",
+        "Breitengrad": 19.4273,
+        "L\u00e4ngengrad": -99.1419,
+        "Bev\u00f6lkerung": 21580827,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Mikronesien",
+        "Hauptstadt": "Palikir",
+        "Breitengrad": 6.9174,
+        "L\u00e4ngengrad": 158.1588,
+        "Bev\u00f6lkerung": 6996,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Moldau",
+        "Hauptstadt": "Chi\u0219in\u0103u",
+        "Breitengrad": 47.0056,
+        "L\u00e4ngengrad": 28.8575,
+        "Bev\u00f6lkerung": 509707,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Monaco",
+        "Hauptstadt": "Monaco",
+        "Breitengrad": 43.7333,
+        "L\u00e4ngengrad": 7.4167,
+        "Bev\u00f6lkerung": 38897,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Mongolei",
+        "Hauptstadt": "Ulaanbaatar",
+        "Breitengrad": 47.9077,
+        "L\u00e4ngengrad": 106.8832,
+        "Bev\u00f6lkerung": 1520381,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Montenegro",
+        "Hauptstadt": "Podgorica",
+        "Breitengrad": 42.4411,
+        "L\u00e4ngengrad": 19.2636,
+        "Bev\u00f6lkerung": 177177,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Mosambik",
+        "Hauptstadt": "Maputo",
+        "Breitengrad": -25.9653,
+        "L\u00e4ngengrad": 32.5892,
+        "Bev\u00f6lkerung": 1101771,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Myanmar",
+        "Hauptstadt": "Naypyidaw",
+        "Breitengrad": 19.745,
+        "L\u00e4ngengrad": 96.1297,
+        "Bev\u00f6lkerung": 500218,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Namibia",
+        "Hauptstadt": "Windhoek",
+        "Breitengrad": -22.5594,
+        "L\u00e4ngengrad": 17.0832,
+        "Bev\u00f6lkerung": 404280,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Nauru",
+        "Hauptstadt": "Yaren",
+        "Breitengrad": -0.5308,
+        "L\u00e4ngengrad": 166.9112,
+        "Bev\u00f6lkerung": 11312,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Nepal",
+        "Hauptstadt": "Kathmandu",
+        "Breitengrad": 27.7017,
+        "L\u00e4ngengrad": 85.3206,
+        "Bev\u00f6lkerung": 1329732,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Neuseeland",
+        "Hauptstadt": "Wellington",
+        "Breitengrad": -41.2866,
+        "L\u00e4ngengrad": 174.7756,
+        "Bev\u00f6lkerung": 411346,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Nicaragua",
+        "Hauptstadt": "Managua",
+        "Breitengrad": 12.1328,
+        "L\u00e4ngengrad": -86.2504,
+        "Bev\u00f6lkerung": 1047923,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Niederlande",
+        "Hauptstadt": "Amsterdam",
+        "Breitengrad": 52.2222,
+        "L\u00e4ngengrad": 4.5337,
+        "Bev\u00f6lkerung": 1131690,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Niger",
+        "Hauptstadt": "Niamey",
+        "Breitengrad": 13.5137,
+        "L\u00e4ngengrad": 2.1098,
+        "Bev\u00f6lkerung": 1213781,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Nigeria",
+        "Hauptstadt": "Abuja",
+        "Breitengrad": 9.0574,
+        "L\u00e4ngengrad": 7.4898,
+        "Bev\u00f6lkerung": 2918518,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Nordmazedonien",
+        "Hauptstadt": "Skopje",
+        "Breitengrad": 42.0,
+        "L\u00e4ngengrad": 21.4333,
+        "Bev\u00f6lkerung": 584208,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Norwegen",
+        "Hauptstadt": "Oslo",
+        "Breitengrad": 59.9127,
+        "L\u00e4ngengrad": 10.7461,
+        "Bev\u00f6lkerung": 1012225,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Oman",
+        "Hauptstadt": "Maskat",
+        "Breitengrad": 23.6139,
+        "L\u00e4ngengrad": 58.5922,
+        "Bev\u00f6lkerung": 1446563,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "\u00d6sterreich",
+        "Hauptstadt": "Wien",
+        "Breitengrad": 48.2064,
+        "L\u00e4ngengrad": 16.3707,
+        "Bev\u00f6lkerung": 1900547,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Osttimor",
+        "Hauptstadt": "Dili",
+        "Breitengrad": -8.5601,
+        "L\u00e4ngengrad": 125.5668,
+        "Bev\u00f6lkerung": 281135,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Pakistan",
+        "Hauptstadt": "Islamabad",
+        "Breitengrad": 33.7035,
+        "L\u00e4ngengrad": 73.0594,
+        "Bev\u00f6lkerung": 1061412,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Pal\u00e4stina",
+        "Hauptstadt": "Ostjerusalem",
+        "Breitengrad": 31.7834,
+        "L\u00e4ngengrad": 35.2339,
+        "Bev\u00f6lkerung": 275086,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Palau",
+        "Hauptstadt": "Ngerulmud",
+        "Breitengrad": 7.3426,
+        "L\u00e4ngengrad": 134.4789,
+        "Bev\u00f6lkerung": 11410,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Panama",
+        "Hauptstadt": "Panama-Stadt",
+        "Breitengrad": 8.9958,
+        "L\u00e4ngengrad": -79.5196,
+        "Bev\u00f6lkerung": 1783490,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Papua-Neuguinea",
+        "Hauptstadt": "Port Moresby",
+        "Breitengrad": -9.4431,
+        "L\u00e4ngengrad": 147.1797,
+        "Bev\u00f6lkerung": 366862,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Paraguay",
+        "Hauptstadt": "Asunci\u00f3n",
+        "Breitengrad": -25.3007,
+        "L\u00e4ngengrad": -57.6359,
+        "Bev\u00f6lkerung": 3222199,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Peru",
+        "Hauptstadt": "Lima",
+        "Breitengrad": -12.0432,
+        "L\u00e4ngengrad": -77.0282,
+        "Bev\u00f6lkerung": 10390607,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Philippinen",
+        "Hauptstadt": "Manila",
+        "Breitengrad": 14.6042,
+        "L\u00e4ngengrad": 120.9822,
+        "Bev\u00f6lkerung": 13482468,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Polen",
+        "Hauptstadt": "Warschau",
+        "Breitengrad": 52.2298,
+        "L\u00e4ngengrad": 21.0118,
+        "Bev\u00f6lkerung": 1767798,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Portugal",
+        "Hauptstadt": "Lissabon",
+        "Breitengrad": 38.7169,
+        "L\u00e4ngengrad": -9.1399,
+        "Bev\u00f6lkerung": 2927316,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Ruanda",
+        "Hauptstadt": "Kigali",
+        "Breitengrad": -1.9474,
+        "L\u00e4ngengrad": 30.0579,
+        "Bev\u00f6lkerung": 1057836,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Rum\u00e4nien",
+        "Hauptstadt": "Bukarest",
+        "Breitengrad": 44.4328,
+        "L\u00e4ngengrad": 26.1043,
+        "Bev\u00f6lkerung": 1821380,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Russland",
+        "Hauptstadt": "Moskau",
+        "Breitengrad": 55.755,
+        "L\u00e4ngengrad": 37.6218,
+        "Bev\u00f6lkerung": 12409738,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Salomonen",
+        "Hauptstadt": "Honiara",
+        "Breitengrad": -9.4333,
+        "L\u00e4ngengrad": 159.95,
+        "Bev\u00f6lkerung": 81801,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Sambia",
+        "Hauptstadt": "Lusaka",
+        "Breitengrad": -15.4134,
+        "L\u00e4ngengrad": 28.2771,
+        "Bev\u00f6lkerung": 2523844,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Samoa",
+        "Hauptstadt": "Apia",
+        "Breitengrad": -13.8333,
+        "L\u00e4ngengrad": -171.7667,
+        "Bev\u00f6lkerung": 36066,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "San Marino",
+        "Hauptstadt": "San Marino",
+        "Breitengrad": 43.9333,
+        "L\u00e4ngengrad": 12.45,
+        "Bev\u00f6lkerung": 4465,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
+        "Hauptstadt": "S\u00e3o Tom\u00e9",
+        "Breitengrad": 0.3365,
+        "L\u00e4ngengrad": 6.7273,
+        "Bev\u00f6lkerung": 80099,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Saudi-Arabien",
+        "Hauptstadt": "Riad",
+        "Breitengrad": 24.6905,
+        "L\u00e4ngengrad": 46.7096,
+        "Bev\u00f6lkerung": 6906595,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Schweden",
+        "Hauptstadt": "Stockholm",
+        "Breitengrad": 59.3326,
+        "L\u00e4ngengrad": 18.0649,
+        "Bev\u00f6lkerung": 1582968,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Schweiz",
+        "Hauptstadt": "Bern",
+        "Breitengrad": 46.9481,
+        "L\u00e4ngengrad": 7.4474,
+        "Bev\u00f6lkerung": 422153,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Senegal",
+        "Hauptstadt": "Dakar",
+        "Breitengrad": 14.6937,
+        "L\u00e4ngengrad": -17.4441,
+        "Bev\u00f6lkerung": 2978419,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Serbien",
+        "Hauptstadt": "Belgrad",
+        "Breitengrad": 44.8176,
+        "L\u00e4ngengrad": 20.4633,
+        "Bev\u00f6lkerung": 1389351,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Seychellen",
+        "Hauptstadt": "Victoria",
+        "Breitengrad": -4.6167,
+        "L\u00e4ngengrad": 55.45,
+        "Bev\u00f6lkerung": 28091,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Sierra Leone",
+        "Hauptstadt": "Freetown",
+        "Breitengrad": 8.484,
+        "L\u00e4ngengrad": -13.2299,
+        "Bev\u00f6lkerung": 1135949,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Simbabwe",
+        "Hauptstadt": "Harare",
+        "Breitengrad": -17.8294,
+        "L\u00e4ngengrad": 31.0539,
+        "Bev\u00f6lkerung": 1515016,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Singapur",
+        "Hauptstadt": "Singapur",
+        "Breitengrad": 1.2897,
+        "L\u00e4ngengrad": 103.8501,
+        "Bev\u00f6lkerung": 5791901,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Slowakei",
+        "Hauptstadt": "Bratislava",
+        "Breitengrad": 48.1482,
+        "L\u00e4ngengrad": 17.1067,
+        "Bev\u00f6lkerung": 429920,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Slowenien",
+        "Hauptstadt": "Ljubljana",
+        "Breitengrad": 46.0511,
+        "L\u00e4ngengrad": 14.5051,
+        "Bev\u00f6lkerung": 286491,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Somalia",
+        "Hauptstadt": "Mogadischu",
+        "Breitengrad": 2.0416,
+        "L\u00e4ngengrad": 45.3435,
+        "Bev\u00f6lkerung": 2081624,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Spanien",
+        "Hauptstadt": "Madrid",
+        "Breitengrad": 40.4165,
+        "L\u00e4ngengrad": -3.7026,
+        "Bev\u00f6lkerung": 6497124,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Sri Lanka",
+        "Hauptstadt": "Colombo",
+        "Breitengrad": 6.5604,
+        "L\u00e4ngengrad": 79.5034,
+        "Bev\u00f6lkerung": 599821,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "S\u00fcdafrika",
+        "Hauptstadt": "Bloemfontein",
+        "Breitengrad": -26.13,
+        "L\u00e4ngengrad": 29.07,
+        "Bev\u00f6lkerung": 4430367,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Sudan",
+        "Hauptstadt": "Khartum",
+        "Breitengrad": 15.5518,
+        "L\u00e4ngengrad": 32.5324,
+        "Bev\u00f6lkerung": 5534079,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "S\u00fcdsudan",
+        "Hauptstadt": "Juba",
+        "Breitengrad": 4.8517,
+        "L\u00e4ngengrad": 31.5825,
+        "Bev\u00f6lkerung": 368914,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Suriname",
+        "Hauptstadt": "Paramaribo",
+        "Breitengrad": 5.8664,
+        "L\u00e4ngengrad": -55.1668,
+        "Bev\u00f6lkerung": 239457,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Syrien",
+        "Hauptstadt": "Damaskus",
+        "Breitengrad": 33.5086,
+        "L\u00e4ngengrad": 36.3084,
+        "Bev\u00f6lkerung": 2319545,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Tadschikistan",
+        "Hauptstadt": "Duschanbe",
+        "Breitengrad": 38.5358,
+        "L\u00e4ngengrad": 68.7791,
+        "Bev\u00f6lkerung": 872653,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Tansania",
+        "Hauptstadt": "Dodoma",
+        "Breitengrad": -6.1023,
+        "L\u00e4ngengrad": 35.4431,
+        "Bev\u00f6lkerung": 765179,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Thailand",
+        "Hauptstadt": "Bangkok",
+        "Breitengrad": 13.722,
+        "L\u00e4ngengrad": 100.5252,
+        "Bev\u00f6lkerung": 10156316,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Togo",
+        "Hauptstadt": "Lom\u00e9",
+        "Breitengrad": 6.1375,
+        "L\u00e4ngengrad": 1.2123,
+        "Bev\u00f6lkerung": 1745744,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Tonga",
+        "Hauptstadt": "Nuku'alofa",
+        "Breitengrad": -21.1394,
+        "L\u00e4ngengrad": -175.2032,
+        "Bev\u00f6lkerung": 22904,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Trinidad und Tobago",
+        "Hauptstadt": "Port of Spain",
+        "Breitengrad": 10.6662,
+        "L\u00e4ngengrad": -61.5166,
+        "Bev\u00f6lkerung": 544417,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Tschad",
+        "Hauptstadt": "N'Djamena",
+        "Breitengrad": 12.1067,
+        "L\u00e4ngengrad": 15.0444,
+        "Bev\u00f6lkerung": 1322679,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Tschechien",
+        "Hauptstadt": "Prag",
+        "Breitengrad": 50.088,
+        "L\u00e4ngengrad": 14.4208,
+        "Bev\u00f6lkerung": 1291552,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Tunesien",
+        "Hauptstadt": "Tunis",
+        "Breitengrad": 36.819,
+        "L\u00e4ngengrad": 10.1658,
+        "Bev\u00f6lkerung": 2290777,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "T\u00fcrkei",
+        "Hauptstadt": "Ankara",
+        "Breitengrad": 39.9199,
+        "L\u00e4ngengrad": 32.8543,
+        "Bev\u00f6lkerung": 4919074,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Turkmenistan",
+        "Hauptstadt": "A\u015fgabat",
+        "Breitengrad": 37.95,
+        "L\u00e4ngengrad": 58.3833,
+        "Bev\u00f6lkerung": 810186,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Tuvalu",
+        "Hauptstadt": "Funafuti",
+        "Breitengrad": -8.5189,
+        "L\u00e4ngengrad": 179.1991,
+        "Bev\u00f6lkerung": 7042,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Uganda",
+        "Hauptstadt": "Kampala",
+        "Breitengrad": 0.3163,
+        "L\u00e4ngengrad": 32.5822,
+        "Bev\u00f6lkerung": 2986352,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Ukraine",
+        "Hauptstadt": "Kiew",
+        "Breitengrad": 50.4454,
+        "L\u00e4ngengrad": 30.5186,
+        "Bev\u00f6lkerung": 2956706,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Ungarn",
+        "Hauptstadt": "Budapest",
+        "Breitengrad": 47.498,
+        "L\u00e4ngengrad": 19.0399,
+        "Bev\u00f6lkerung": 1759497,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Uruguay",
+        "Hauptstadt": "Montevideo",
+        "Breitengrad": -34.8335,
+        "L\u00e4ngengrad": -56.1674,
+        "Bev\u00f6lkerung": 1736989,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Usbekistan",
+        "Hauptstadt": "Taschkent",
+        "Breitengrad": 41.2647,
+        "L\u00e4ngengrad": 69.2163,
+        "Bev\u00f6lkerung": 2463969,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Vanuatu",
+        "Hauptstadt": "Port Vila",
+        "Breitengrad": -17.7338,
+        "L\u00e4ngengrad": 168.3219,
+        "Bev\u00f6lkerung": 52690,
+        "Kontinent": "Australien"
+    },
+    {
+        "Land": "Vatikanstadt",
+        "Hauptstadt": "Vatikanstadt",
+        "Breitengrad": 41.9024,
+        "L\u00e4ngengrad": 12.4533,
+        "Bev\u00f6lkerung": 801,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Venezuela",
+        "Hauptstadt": "Caracas",
+        "Breitengrad": 10.488,
+        "L\u00e4ngengrad": -66.8792,
+        "Bev\u00f6lkerung": 2934560,
+        "Kontinent": "S\u00fcdamerika"
+    },
+    {
+        "Land": "Vereinigte Arabische Emirate",
+        "Hauptstadt": "Abu Dhabi",
+        "Breitengrad": 24.4648,
+        "L\u00e4ngengrad": 54.3618,
+        "Bev\u00f6lkerung": 1419699,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Vereinigtes K\u00f6nigreich",
+        "Hauptstadt": "London",
+        "Breitengrad": 51.5085,
+        "L\u00e4ngengrad": -0.1257,
+        "Bev\u00f6lkerung": 9046485,
+        "Kontinent": "Europa"
+    },
+    {
+        "Land": "Vereinigte Staaten",
+        "Hauptstadt": "Washington, D.C.",
+        "Breitengrad": 38.8951,
+        "L\u00e4ngengrad": -77.0364,
+        "Bev\u00f6lkerung": 5206593,
+        "Kontinent": "Nordamerika"
+    },
+    {
+        "Land": "Vietnam",
+        "Hauptstadt": "Hanoi",
+        "Breitengrad": 21.0245,
+        "L\u00e4ngengrad": 105.8412,
+        "Bev\u00f6lkerung": 4282738,
+        "Kontinent": "Asien"
+    },
+    {
+        "Land": "Zentralafrikanische Republik",
+        "Hauptstadt": "Bangui",
+        "Breitengrad": 4.3612,
+        "L\u00e4ngengrad": 18.555,
+        "Bev\u00f6lkerung": 850946,
+        "Kontinent": "Afrika"
+    },
+    {
+        "Land": "Zypern",
+        "Hauptstadt": "Nikosia",
+        "Breitengrad": 35.1595,
+        "L\u00e4ngengrad": 33.3669,
+        "Bev\u00f6lkerung": 269469,
+        "Kontinent": "Asien"
+    }
+]
