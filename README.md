@@ -1,6 +1,13 @@
 # Python-Geoquiz
 Die ist meine Abschlussarbeit für meine Python-Weiterbildung 2025. Es ist ein Python-Quizspiel, in dem man Hauptstädte auf der Weltkarte finden muss.
-Für die Orte habe ich dia CIA.gov Seite und die Wikipedia-Liste aller Hauptstädte verwendet und mit Hilfe von KI verschiedene Daten zu einem .json-File zusammengeführt
+
+Für die Daten habe ich folgende Quellen zusammengeführt:
+    https://en.wikipedia.org/wiki/List_of_national_capitals,
+    https://de.wikipedia.org/wiki/Liste_der_Hauptst%C3%A4dte_der_Erde,
+    https://www.cia.gov/the-world-factbook/field/capital/,
+    sowie https://gist.github.com/ofou/df09a6834a8421b4f376c875194915c9Für 
+    
+Mit Hilfe von KI habe ich die verschiedenen Daten zu einem .json-File zusammengeführt
 
 ![Screenshot_2](https://github.com/user-attachments/assets/536f9abc-ddbe-49e2-aeae-5586e67c9a16)
 
