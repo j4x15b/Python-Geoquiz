@@ -1,2 +1,21 @@
 # Python-Geoquiz
-This is the presentation for my Python-Training Course. It's a quiz, where you have to finde Main Capitals on the world map.
+Die ist meine Abschlussarbeit für meine Python-Weiterbildung 2025. Es ist ein Python-Quizspiel, in dem man Hauptstädte auf der Weltkarte finden muss.
+Für die Orte habe ich dia CIA.gov Seite und die Wikipedia-Liste aller Hauptstädte verwendet und mit Hilfe von KI verschiedene Daten zu einem .json-File zusammengeführt
+
+![Screenshot_2](https://github.com/user-attachments/assets/536f9abc-ddbe-49e2-aeae-5586e67c9a16)
+
+Man hat pro Stadt drei Versuche, spielt zehn Runden und danach gibt es eine Auswertung. Für jeden Treffer gibt es einen Punkt, man kann User anlegen, einen Schwierigkeitsgrad wählen (wie nah an den Punkt muss man klicken) und die Kontinente auswählen.
+Der User kann mit dem Mausrad an Orte heran- und herauszoomen, die Karte per Klick zu bewegen, funktioniert leider nicht.
+
+Folgende Python-Kurs-Themen werden im Spiel behandelt:
+ - grafische Oberfläche (mit Tkinter)
+ - .json Dateien einlesen und abspeichern
+ - plotten mit Matplotlib
+ - Interaktivität
+ - Visualisierung von Daten (Punkte auf der Weltkarte)
+ - Objektorientierte Programmierung - Verwendung von Klassen und Methoden
+ - Usersteuerung über Programm-Feedback
+ - List Compehension
+
+
+Viel Spaß mit dem Spiel
